@@ -194,6 +194,7 @@ Las contribuciones son bienvenidas. Si encontrás un bug o tenés una sugerencia
 **PalacioSebas**
 
 - GitHub: [@PalacioSebas](https://github.com/PalacioSebas)
+- LinkedIn: [@PalacioSebas](https://www.linkedin.com/in/palaciosebas)
 
 ---
 
