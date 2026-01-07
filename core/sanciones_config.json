@@ -1,0 +1,142 @@
+{
+    "tiempos_por_motivo": {
+        "Exceso de flood": "1h",
+        "Uso excesivo de mayúsculas": "1h",
+        "Comentarios inapropiados": "1h",
+        "Spam": "1h",
+        "Estafa en subastas": "7d",
+        "Estafa en /ah": "7d",
+        "Tóxico": "3d",
+        "Tpakill (devolvió items)": "7d",
+        "Tpakill sin devolución de items": "30d",
+        "Home kill": "7d",
+        "Warp kill": "7d",
+        "Xray": "15d",
+        "Hacks": "30d",
+        "Aprovechamiento de bugs": "7d",
+        "uso incorrecto de /helppop": "1d",
+        "3v1 ilegal": "2d",
+        "rename inapropiado": "1d",
+        "Hacks evidentes": "90d",
+        "Evasión de ban": "90d"
+    },
+    "sanciones_config": {
+        "Kick": {
+            "comando": "kick",
+            "requiere_tiempo": false,
+            "requiere_modalidad": false,
+            "motivos": [
+                "Política 23 | AFK Modalidad llena",
+                "Política 23 | Uso de granjas en hora pico"
+            ]
+        },
+        "Warn": {
+            "comando": "warn",
+            "requiere_tiempo": false,
+            "requiere_modalidad": false,
+            "motivos": [
+                "Exceso de flood",
+                "Uso excesivo de mayúsculas",
+                "Nick inapropiado",
+                "Rename inapropiado",
+                "Generar toxicidad",
+                "Comentarios inapropiados",
+                "3vs1 ilegal",
+                "Hacerse pasar por staff",
+                "aprovechamiento de bugs",
+                "Uso incorrecto de /helppop",
+                "Spam"
+            ]
+        },
+        "Mute Temporal": {
+            "comando": "tempmute",
+            "requiere_tiempo": true,
+            "requiere_modalidad": false,
+            "tiempo_default": "1h",
+            "motivos": [
+                "Exceso de flood",
+                "Uso excesivo de mayúsculas",
+                "Comentarios inapropiados",
+                "Rename inapropiado",
+                "Generar toxicidad",
+                "Spam"
+            ]
+        },
+        "Ban Temporal": {
+            "comando": "tempban",
+            "requiere_tiempo": true,
+            "requiere_modalidad": false,
+            "tiempo_default": "7d",
+            "motivos": [
+                "Xray",
+                "Estafa en /ah",
+                "Tpakill (devolvió items)",
+                "Tpakill sin devolución de items",
+                "aprovechamiento de bugs",
+                "rename inapropiado",
+                "Uso incorrecto de /helppop",
+                "3v1 ilegal"
+            ],
+            "motivos_requieren_modalidad": {
+                "Estafa en /ah": true,
+                "Tpakill (devolvió items)": true,
+                "Tpakill sin devolución de items": true,
+                "Aprovechamiento de bugs": true,
+                "Xray": true,
+                "uso incorrecto de /helppop": false,
+                "3v1 ilegal": true,
+                "rename inapropiado": true
+            }
+        },
+        "Ban Temporal IP": {
+            "comando": "tempbanip",
+            "requiere_tiempo": true,
+            "requiere_modalidad": false,
+            "tiempo_default": "90d",
+            "motivos": [
+                "Hacks evidentes"
+            ]
+        },
+        "Vigilar": {
+            "comando": "vigilar",
+            "requiere_tiempo": false,
+            "requiere_modalidad": false,
+            "motivos": [
+                "tpakill reportado",
+                "uso de hacks sin evidencia",
+                "xray sin evidencia",
+                "posible dupe"
+            ]
+        },
+        "Ban Permanente": {
+            "comando": "ban",
+            "requiere_tiempo": false,
+            "requiere_modalidad": false,
+            "motivos": [
+                "politica 19 - multicuentas para farmeo desleal",
+                "Nombre de usuario inapropiado"
+            ]
+        },
+        "Ban IP Permanente": {
+            "comando": "banip",
+            "requiere_tiempo": false,
+            "requiere_modalidad": false,
+            "motivos": [
+                "Abrir ticket",
+                "multicuenta de pol 32 - evasion de ban"
+            ]
+        }
+    },
+    "modalidades": [
+        "SurvivalClasico",
+        "SurvivalTecnico",
+        "SurvivalCustom",
+        "SurvivalFantasy",
+        "SurvivalOP",
+        "SkyBlock",
+        "PrisonOP",
+        "KitPvP",
+        "SkyWars",
+        "Creativo"
+    ]
+}
