@@ -1,0 +1,308 @@
+================================================================================
+ESTADÍSTICAS DE FILTRADO
+================================================================================
+
+🔍 ESTADO DE INVESTIGACIÓN TPAKILL:
+  [✅ LIMPIO] El sistema no considera TPAKILL (Por favor revisa manualmente ♡).
+             (No hubo muertes dentro de los 3 minutos posteriores a un TPA)
+
+Menciones por jugador:
+  • permanent4k: 197 líneas
+  • .DiscoStraw8542: 89 líneas
+
+Tipos de mensajes:
+  • Mensaje de chat: 196
+  • Sistema: 68
+  • Movimiento de zona: 11
+  • Conexión: 10
+
+================================================================================
+TOTAL: 286 líneas encontradas
+================================================================================
+
+[14:36:33] [Render thread/INFO]: Setting user: permanent4k
+[14:37:06] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[14:37:15] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[14:37:28] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[14:37:38] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[14:38:30] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[14:46:49] [Render thread/INFO]: [System] [CHAT] [0] [Usu] permanent4k: L3ON4RD014
+[14:47:14] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (1/8)!
+[14:47:27] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (3/16)!
+[14:50:00] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: ola
+[14:50:19] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: ando com mi pareja bro
+[14:51:03] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (1/2)!
+[14:54:27] [Render thread/INFO]: [System] [CHAT]  2. permanent4k: 22
+[14:55:10] [Render thread/INFO]: [System] [CHAT] [!] Visita tus estadísticas públicas en UniversoCraft desde: stats.universocraft.com/jugador/permanent4k
+[14:56:00] [Render thread/INFO]: [System] [CHAT]  1. permanent4k: 26
+[14:57:13] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (11/12)!
+[14:57:46] [Render thread/INFO]: [System] [CHAT] permanent4k ha sido asesinado por CarlBy2008.
+[14:58:08] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: leo gay
+[14:59:10] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (3/12)!
+[15:00:01] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (8/12)!
+[15:02:01] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (5/12)!
+[15:02:15] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: carles gay
+[15:02:34] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: su mm
+[15:04:00] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (2/12)!
+[15:06:17] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (2/12)!
+[15:07:40] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (9/12)!
+[15:09:02] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (6/12)!
+[15:14:01] [Render thread/INFO]: [System] [CHAT] permanent4k ha muerto.
+[15:19:50] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[15:20:17] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[15:20:23] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[15:25:24] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 consiguió el progreso [La Edad de Hierro]
+[15:28:24] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 consiguió el progreso [A vestirse]
+[15:41:52] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » laaaaaaaaaaag
+[15:42:07] [Render thread/INFO]: [System] [CHAT] [SSCL]「⚡」「¡Sabroso!」 AboGames » permanent4k evita flood
+[15:47:26] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » abo
+[15:47:41] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » sera que puedo farmear perlas?
+[15:47:47] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » o despues
+[15:47:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » listo abo gracias
+[15:48:00] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[16:06:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » quien pvp devuelvo cosas
+[16:06:20] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[16:06:47] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[16:09:05] [Render thread/INFO]: [System] [CHAT]  ☢ [URSS] | permanent4k » ciro
+[16:09:15] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[16:09:31] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » [colombia in the house x1]
+[16:11:09] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[16:11:30] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[16:16:36] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 consiguió el progreso [¿No es hierrónico?]
+[16:20:09] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:20:58] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo desactivado para permanent4k.
+[16:21:33] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 consiguió el progreso [¡DIAMANTES!]
+[16:34:21] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 fue asesinado(a) por Enderman
+[16:45:02] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:45:58] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[16:46:17] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo desactivado para permanent4k.
+[16:46:19] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:46:21] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[16:46:39] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:47:12] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:47:37] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[17:02:24] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 se cayó de un lugar muy alto
+[17:05:10] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 se cayó de un lugar muy alto
+[17:06:50] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 se cayó de un lugar muy alto
+[17:17:50] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » olas
+[17:18:14] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[17:19:48] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » *pv
+[17:21:29] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[17:38:29] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » tengo algunas menas de amatista alguien le interesa regalo
+[17:39:06] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[17:39:11] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[17:39:11] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[17:41:41] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola dre
+[17:41:58] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola dreanchibiado
+[17:42:10] [Render thread/INFO]: [System] [CHAT] [HELPER] DreamChibiado » Hola permanent4k
+[17:42:16] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que tal dream?
+[17:43:24] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » alguien vende trial chamber??
+[17:43:33] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » alguien vende trial chamber??
+[17:48:25] [Render thread/INFO]: [System] [CHAT] permanent4k consiguió el progreso [Bajo llave]
+[17:49:35] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » matu
+[17:49:47] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola apache
+[17:50:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ApacheSkill me tenes varas de brezee?
+[18:17:14] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[18:17:45] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » bueno muchachos me voy adios
+[18:17:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » feliz noche
+[20:51:27] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[20:51:33] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[20:51:35] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[20:51:40] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » olaaa
+[20:51:59] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:52:07] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:52:33] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:54:06] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:55:20] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » che
+[20:55:30] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » porque no me cruzo a nadie en el mapa????
+[20:55:54] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:55:59] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:56:05] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[20:56:15] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[20:56:25] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo desactivado para permanent4k.
+[20:56:27] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[20:56:28] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:56:42] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:57:53] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:58:26] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » che
+[20:58:31] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » alguno me lee???'
+[20:59:04] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » PORQUE NO ME ENCUENTRO A NADIE EN ELK MAPA?
+[20:59:15] [Render thread/INFO]: [System] [CHAT] [Kuro][INFINITE] MininYaw » .DiscoStraw8542 xq es enorme
+[20:59:18] [Render thread/INFO]: [System] [CHAT] [🥇][ONLY][⚡][⁺₊❤₊⁺] vNadiev » .DiscoStraw8542 por el /rtp los lleva lejos
+[20:59:54] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » Y como me acerco? ya quise irme lejos varias veces y no encurntro a nadie
+[21:00:51] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » SugaManny
+[21:01:31] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » 100 pesos
+[21:02:04] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » jajajajajajajaj
+[21:02:44] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[21:07:48] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » amigo estoy en las cordenadas 50.000
+[21:08:28] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » nadie
+[21:08:35] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » veni donde estoy yo
+[21:08:43] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » alguno que venga aca
+[21:09:41] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » che
+[21:09:48] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » alguno me pouede responder
+[21:09:55] [Render thread/INFO]: [System] [CHAT] [🥇][ONLY][⚡][⁺₊❤₊⁺] vNadiev » .DiscoStraw8542 que courre?
+[21:10:11] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » estoy demasiado lejos y puse home aca
+[21:10:27] [Render thread/INFO]: [System] [CHAT] [🥇][ONLY][⚡][⁺₊❤₊⁺] vNadiev » tiene sprotección puesta .DiscoStraw8542 ?
+[21:11:03] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » si
+[21:11:09] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » tengo la proteccion puesta
+[21:11:32] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola ChoripanDelux
+[21:12:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » regalo 30 diamantes a la primera persona que mande tp
+[21:12:20] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » yo
+[21:12:34] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » como mando el tp???
+[21:13:19] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » manda tp y te lo acepto bro
+[21:13:26] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » jejejeje
+[21:13:38] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola roy
+[21:13:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » na loso era saludar
+[21:14:06] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » alguno me puede mandar tp y se lo acepto?
+[21:16:05] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » [colombia in the house x1]
+[21:16:33] [Render thread/INFO]: [System] [CHAT]  MINELATINO » .DiscoStraw8542 te ha pedido teletransportarse hasta ti.
+[21:16:54] [Render thread/INFO]: [System] [CHAT]  MINELATINO » .DiscoStraw8542 te ha pedido teletransportarse hasta ti.
+[21:17:19] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » llegas tarde rey pero como veo que tienes pocas horas
+[21:17:30] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » ty bro
+[21:18:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » hay tienes rey
+[21:18:20] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » gracias bro
+[21:18:30] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » dale si nesesitas algo no dudes en llamarme
+[21:22:38] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » hola paules de los paules c:
+[21:23:46] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » hola paules de los paules c:
+[21:24:02] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » jejej como vas paul
+[21:25:32] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » chao chori
+[21:31:03] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » AlexCam15 que grosero
+[21:38:12] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola rol
+[21:52:02] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » 7home casadelaesclavisacion
+[21:53:29] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 ardió hasta reducirse a cenizas mientras luchaba con MemexD
+[21:53:40] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » meme
+[21:53:51] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » meme
+[21:53:58] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » sos muy gill
+[21:54:57] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » no me deja pedirte tp meme
+[21:56:46] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » ty
+[21:58:09] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » [ Restaurante La caverna de URSS abre sus puertas despues de 3 meses, ¡el mejor restaurante de todo Minelatino!, /pw LacavernadeURSS o /msg permanent4k (para reserva) x1]
+[21:58:09] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » alguno me quiere regalar algo???????
+[21:59:23] [Render thread/INFO]: [System] [CHAT] [Kuro][INFINITE] MininYaw » necesitas algo .DiscoStraw8542? :o
+[21:59:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Hola buenas noches
+[22:00:14] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » desea ir a el 2do miso?
+[22:00:19] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » piso*
+[22:00:37] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » no señor desaforunadamente
+[22:01:04] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que desea?
+[22:01:08] [Render thread/INFO]: [System] [CHAT] [Kuro][INFINITE] MininYaw » .DiscoStraw8542 necesitas algo?:o
+[22:01:21] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » listo a la orden
+[22:01:45] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » COMO SALGO DE ACA
+[22:01:59] [Render thread/INFO]: [System] [CHAT] [Kuro][INFINITE] MininYaw » .DiscoStraw8542 es mi base, haz /rtp
+[22:02:42] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » seria 5k señor
+[22:03:08] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Te hise un regalo de una torta de jamon que no esta en la carta
+[22:03:23] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » es postre de la casa
+[22:03:27] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » TENES ALGO PARA REGALAR?
+[22:03:35] [Render thread/INFO]: [System] [CHAT] [WRAK][ADMIN]｢☠｣ Rollmaster_ » .DiscoStraw8542 evita las mayusculas
+[22:03:44] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Muchas gracias Lion2
+[22:03:48] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » ok sory
+[22:04:08] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Lion2 agradeceria mucho que reseñes el pw en /pw
+[22:04:16] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » me ayudaria mucho
+[22:04:51] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » rataa
+[22:06:02] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » apache pasas por el restaurante?? me haria mucha ilucion
+[22:06:07] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » que hiciste?
+[22:06:12] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » no entendi?
+[22:06:16] [Render thread/INFO]: [System] [CHAT] [JINX][⚡]⌞⛧ |⸸| ⛧⌝ 1 » enserio permanent4k :$
+[22:06:21] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » SI _3
+[22:06:43] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » veni a ver mi casa capo
+[22:06:50] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » estoy en la loma del ortoo
+[22:06:59] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Bienvenido ApacheSkill
+[22:07:05] [Render thread/INFO]: [System] [CHAT] [JINX][⚡]⌞⛧ |⸸| ⛧⌝ 1 » gracias permanent4k
+[22:07:08] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » a la caverna de irrs
+[22:07:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » deseas 2do piso o primer?
+[22:07:28] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » deseas 2do piso o primer?
+[22:07:49] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » bienvenida MininYaw
+[22:07:57] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » yo juan
+[22:08:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » si señora
+[22:08:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que desean?
+[22:08:20] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » no
+[22:08:48] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Listo a la orden
+[22:08:58] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .DiscoStraw8542
+[22:09:47] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .DiscoStraw8542
+[22:10:33] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 fue aplastado(a) por zJuanm
+[22:10:35] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Con gusto provechp
+[22:10:41] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » envia tpa .DiscoStraw8542
+[22:10:56] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .DiscoStraw8542
+[22:10:58] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » lsito señor
+[22:11:20] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » espere un momento porfavor
+[22:11:32] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 fue aplastado(a) por zJuanm
+[22:11:45] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » rapido que
+[22:11:48] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » mascapito
+[22:12:28] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » acepta
+[22:12:29] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » capo
+[22:12:38] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Sr apache
+[22:13:15] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Bueno señor muchas gracias
+[22:13:35] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Poer favor me daria su calificacion del 1 al 10 para el mural porfa
+[22:13:57] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Esta en mantenimiento
+[22:14:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Muchas gracias MininYaw
+[22:14:15] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » que casa fea juan
+[22:14:37] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » pondre tu calificacion aca apache
+[22:15:49] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Listo sr ApacheSkill muchas gracias por tu visita
+[22:17:02] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » la armadura encantada y las armas encantadas se compran no?
+[22:19:16] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » cuanto
+[22:19:28] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » 30k?
+[22:19:28] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelves cosas?
+[22:19:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelves cosas?
+[22:19:55] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » y como traigo mis cosas desde la piedra de protec
+[22:20:33] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » hay mucha gente cerca?
+[22:20:40] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm
+[22:21:29] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » espera un minuto zJuanm
+[22:21:35] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo desactivado para permanent4k.
+[22:21:48] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 se cayó de un lugar muy alto
+[22:22:40] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » dale la compro
+[22:23:11] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm ya
+[22:23:17] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[22:25:11] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » Hldns
+[22:25:40] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » como pongo otro bloque protec si ya tengo uno puesto, de donde lo saco
+[22:26:31] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » gracias!!!!!
+[22:27:53] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » no veo nada
+[22:28:06] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » me aparecen todos vacios
+[22:28:18] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » ahi va
+[22:28:30] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » se me bugeo
+[22:30:16] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ala
+[22:30:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » xd+
+[22:32:06] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ya se me van a acabar
+[22:32:20] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » yayaya
+[22:32:31] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ya no tengo :c
+[22:32:32] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » q cambia el mundo word o el survival? son el mismo mapa?
+[22:32:45] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro totems
+[22:32:48] [Render thread/INFO]: [System] [CHAT] permanent4k fue aplastado(a) por zJuanm
+[22:33:22] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » dame mis cosas
+[22:33:35] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » dame mis cosas
+[22:34:04] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » pero dijiste que paremos
+[22:34:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ¿dije que ta
+[22:34:21] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » estaba quieto y vos tmb
+[22:34:33] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » pero dame mis cosas
+[22:34:59] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » abro tiket
+[22:35:05] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » estoy grabando
+[22:35:30] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ese masxzo custa como 400k damelo
+[22:36:01] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » bueno tiqket
+[22:36:04] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[22:36:09] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que quiere
+[22:36:12] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » un ban oqie
+[22:36:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » no joda
+[22:36:58] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » jajaja que grasoso dame mi mazo o abro tiket
+[22:38:16] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k es malisimo
+[22:38:21] [Render thread/INFO]: [System] [CHAT]  ☢ [URSS] | permanent4k » cj
+[22:38:23] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k es malisimo
+[22:38:40] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » zjuan
+[22:39:01] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[22:39:20] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » Zjuan
+[22:39:30] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » q .DiscoStraw8542
+[22:39:50] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » q .DiscoStraw8542
+[22:40:06] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » no tenes un mazito de mas que te sobre pero que sirva para pvp; soy nuevo en el server
+[22:40:30] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm calmate
+[22:40:57] [Render thread/INFO]: [System] [CHAT] zJuanm fue víctima de permanent4k y su [ Espada de Netherite y le dio mucha aura]
+[22:41:27] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[22:41:36] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que quiere
+[22:41:56] [Render thread/INFO]: [System] [CHAT] [][U] .DiscoStraw8542 » acepta tp juan
+[22:47:49] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[22:47:55] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[22:48:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[22:48:11] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 fue empujado(a) de muy alto por L3ON4RD014
+[22:52:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelve mi mazo
+[22:53:23] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelve mi mazo
+[22:53:43] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelve mi mazo
+[22:55:05] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[22:56:51] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelve mi mazo
+[22:57:08] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 consiguió el progreso [Tenemos que ir más profundo]
+[23:00:45] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[23:01:42] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » na zJuanm ando ocupado abriendo tiket

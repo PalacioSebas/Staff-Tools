@@ -1,0 +1,165 @@
+================================================================================
+ESTADÍSTICAS DE FILTRADO
+================================================================================
+
+🔍 ESTADO DE INVESTIGACIÓN TPAKILL:
+  [✅ LIMPIO] El sistema no considera TPAKILL (Por favor revisa manualmente ♡).
+             (No hubo muertes dentro de los 3 minutos posteriores a un TPA)
+
+Menciones por jugador:
+  • SophiGames: 13 líneas
+  • SolleQuin: 131 líneas
+
+Tipos de mensajes:
+  • Sistema: 72
+  • Mensaje de chat: 70
+  • Conexión: 1
+
+================================================================================
+TOTAL: 144 líneas encontradas
+================================================================================
+
+[09:35:55] [Render thread/INFO]: Setting user: SolleQuin
+[09:37:11] [Render thread/INFO]: [System] [CHAT]         Bienvenido SolleQuin a MineLatino
+[09:51:51] [Render thread/INFO]: [System] [CHAT] Buenas gente, el jugador SolleQuin ha entrado al servidor!
+[09:51:51] [Render thread/INFO]: [System] [CHAT]         Bienvenido SolleQuin a MineLatino
+[09:55:35] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xd
+[09:55:43] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » pero es ppr abrir ticket
+[09:56:14] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » demas lo desbanean xd
+[09:56:54] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » como me paso a mi xd
+[10:08:13] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » la cosa es de quien xd
+[10:13:24] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » de hecho para que rinda
+[10:13:30] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » te recomiendo comprar el mlg en una multi
+[10:13:36] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » para que dejes la alt minando
+[10:13:41] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » y tu main juegas
+[10:15:50] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » el bry creo
+[10:16:14] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » en cuanto el pv?
+[10:16:28] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » anoche habia uno buscando pvs xd
+[10:18:25] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » atha cuenta chisme yo quiero saber
+[10:18:29] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ano
+[10:18:30] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » jasdjas
+[10:18:33] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » a no*
+[10:18:37] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » :c
+[10:18:43] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xDD
+[10:19:04] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » que no vasmoa poner end pa ti
+[10:19:06] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » a es
+[10:19:09] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ola vro como tas?
+[10:19:10] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » JDASSDJA
+[10:19:32] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xDDD
+[10:20:53] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xD
+[10:24:24] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » atha cuando un is level
+[10:24:38] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » fua
+[10:24:43] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » y no buscas novio?
+[10:24:48] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » me discriminas?
+[10:24:57] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » va
+[10:25:01] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » te sirve un lisiado?
+[10:25:02] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » JDASDJ
+[10:25:12] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xDDD
+[10:25:27] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » JAJJAJ
+[10:26:49] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » a que bonito
+[10:26:54] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » asi es como se rompe armor fc
+[10:27:03] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » quien vende casco kit igneo? xd
+[10:28:09] [Render thread/INFO]: [System] [CHAT]         Bienvenido SolleQuin a MineLatino
+[10:33:24] [Render thread/INFO]: [System] [CHAT] Buenas gente, el jugador SolleQuin ha entrado al servidor!
+[10:33:24] [Render thread/INFO]: [System] [CHAT]         Bienvenido SolleQuin a MineLatino
+[10:33:36] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xD
+[10:35:35] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » que te sale?
+[10:35:46] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ah
+[10:35:49] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » te la intentaron robar
+[10:35:51] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » abre ticket
+[10:36:34] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » intentaron entrar a tu cuenta
+[10:36:37] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » desde otra ip
+[10:37:22] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » como va ser premium si intentaron entrar aca xd
+[10:38:00] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » pues la cuenta fue baneada
+[10:38:03] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » no creo que hayan entrado
+[10:38:13] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » a SoyNinez le llenaron la is de lava xD
+[10:39:10] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xDD
+[10:39:17] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » supiste quien fue
+[10:39:17] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ?
+[10:39:28] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » quien xd
+[10:39:36] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ?
+[10:39:49] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ah xd
+[10:41:27] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » no era minelatino.com/sanciones
+[10:41:28] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ? xd
+[10:41:37] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » bueno una de las 2 es xd
+[10:42:09] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ah xD
+[10:42:15] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » jasdjas
+[10:42:24] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » tas poniendo end?
+[10:42:37] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xD
+[10:42:54] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » yo deberia tar en la clinica
+[10:43:00] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » pero aqui toy farmeando regales
+[10:43:03] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » regalos*
+[10:43:15] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » encima rompi armor fc
+[10:43:23] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » xd
+[10:45:38] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » 7msg AthaOblen45 bro no le quiten el ban, asi me queda mas facil el top mobs
+[10:45:41] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » a
+[10:45:48] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » ajdasdj
+[10:46:53] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » compro 2 lingotes igneos
+[10:46:56] [Render thread/INFO]: [System] [CHAT] [dungeon][LATAM+] SolleQuin » o casco igneo
+[10:49:45] [Render thread/INFO]: [System] [CHAT]         Bienvenido SolleQuin a MineLatino
+[11:00:49] [Render thread/INFO]: [System] [CHAT] Buenas gente, el jugador SolleQuin ha entrado al servidor!
+[11:00:49] [Render thread/INFO]: [System] [CHAT]         Bienvenido SolleQuin a MineLatino
+[11:00:56] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja VoteParty.
+[11:01:04] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja VoteParty.
+[11:03:16] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja VoteParty.
+[11:03:24] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja VoteParty.
+[11:03:33] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja VoteParty.
+[11:03:41] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja VoteParty.
+[11:03:50] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja VoteParty.
+[11:03:58] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja VoteParty.
+[11:04:14] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:04:29] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:04:39] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:04:47] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:04:56] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:05:04] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:05:12] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:05:23] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:05:58] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:06:07] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:06:15] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:06:24] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:06:32] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:06:40] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:06:48] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja GOLD.
+[11:06:59] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:07:07] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:07:16] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:07:24] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:07:32] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:07:40] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:07:49] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:07:57] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:08:05] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:08:13] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:08:26] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:08:37] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:08:45] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:09:26] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:09:43] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:09:58] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:10:19] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:12:00] [Render thread/INFO]: [System] [CHAT] [+] SolleQuin, se ha conectado al lobby.
+[11:12:08] [Render thread/INFO]: [System] [CHAT] Buenas gente, el jugador SolleQuin ha entrado al servidor!
+[11:12:08] [Render thread/INFO]: [System] [CHAT]         Bienvenido SolleQuin a MineLatino
+[11:12:11] [Render thread/INFO]: [System] [CHAT] Buenas gente, el jugador SophiGames ha entrado al servidor!
+[11:12:11] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SophiGames se une al servidor!
+[11:13:34] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:13:43] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:13:46] [Render thread/INFO]: [System] [CHAT] SophiGames ha solicitado teletransportarse hacia ti.
+[11:13:51] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (SophiGames ▻ YO) » holis
+[11:13:53] [Render thread/INFO]: [System] [CHAT] ¡Has aceptado la petición de teletransporte de SophiGames!
+[11:13:57] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (YO ▻ SophiGames) » hola, dime?
+[11:13:57] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:14:05] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (SophiGames ▻ YO) » podemos ser amigos? soy nueva
+[11:14:15] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (YO ▻ SophiGames) » si no hay problema xd
+[11:14:15] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:14:23] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:14:29] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (SophiGames ▻ YO) » tienes discord?
+[11:14:33] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (YO ▻ SophiGames) » es mi nick xd
+[11:14:34] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:14:42] [Render thread/INFO]: [System] [CHAT] MineLAT » El jugador SolleQuin abrió una caja IRON.
+[11:14:49] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (SophiGames ▻ YO) » ya te mande
+[11:15:38] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (YO ▻ SophiGames) » ahi te la acepte
+[11:15:42] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (SophiGames ▻ YO) » oki
+[11:15:53] [Render thread/INFO]: [System] [CHAT]         Bienvenido SolleQuin a MineLatino

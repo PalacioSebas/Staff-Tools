@@ -1,0 +1,373 @@
+================================================================================
+ESTADÍSTICAS DE FILTRADO
+================================================================================
+
+🔍 ESTADO DE INVESTIGACIÓN TPAKILL:
+  [⚠️ ALERTA] Se detectaron 3 posible(s) caso(s) de TPAKILL.
+             (Muerte registrada en menos de 3 minutos tras un TPA)
+
+Menciones por jugador:
+  • josetl: 87 líneas
+  • naranjitia67: 179 líneas
+
+Tipos de mensajes:
+  • Mensaje de chat: 224
+  • Sistema: 99
+  • Movimiento de zona: 12
+  • Conexión: 1
+
+⚠️  Líneas ignoradas (basura del servidor): 11
+
+================================================================================
+TOTAL: 349 líneas encontradas
+================================================================================
+
+[18:25:58] [Render thread/INFO]: Setting user: Naranjitia67
+[18:27:12] [Render thread/INFO]: [System] [CHAT] [+] Naranjitia67, se ha conectado al lobby.
+[18:33:25] [Render thread/INFO]: [System] [CHAT]  MINELATINO » argentinaxd ha pedido teletransportarse hacia a ti
+[18:33:25] [Render thread/INFO]: [System] [CHAT]  ✔ Escribe /tpaccept para aceptar el teletransporte.
+[18:33:25] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos; no aceptes peticiones de desconocidos.
+[18:33:30] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[18:38:50] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a ElPishulaDeHueso!
+[18:38:53] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡ElPishulaDeHueso ha aceptado tu teletransportación!
+[18:39:18] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » wtf
+[18:42:01] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q
+[18:42:56] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » es mi amigo
+[18:44:45] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » no lo mates i_TAPYO es tp kill
+[18:44:59] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » que
+[18:45:02] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » y como llegastes
+[18:45:44] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » no i_TAPYO vete porfavor
+[18:46:17] [Render thread/INFO]: [System] [CHAT]  MINELATINO » argentinaxd ha pedido teletransportarse hacia a ti
+[18:46:17] [Render thread/INFO]: [System] [CHAT]  ✔ Escribe /tpaccept para aceptar el teletransporte.
+[18:46:17] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos; no aceptes peticiones de desconocidos.
+[18:46:34] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » XD
+[18:46:36] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » F
+[18:47:05] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » bruh eso no se hace :V
+[18:47:18] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » porke lo hicistes...
+[18:47:37] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q hizo :(
+[18:48:01] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » bro dale sus cosas almenos
+[18:48:23] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » damel o q agarrastes
+[18:48:38] [Render thread/INFO]: [System] [CHAT] i_TAPYO ha explotado por Naranjitia67 usando [sniper]
+[18:48:52] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » tomala
+[18:48:56] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » cual tp kill?
+[18:49:07] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » me enviastes tp, tu llevas un buen rato aqui
+[18:49:16] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » y matastes al ElPishulaDeHueso
+[18:49:35] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ElPishulaDeHueso
+[18:49:45] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » no i_TAPYO
+[18:49:52] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » yo estaba aqui
+[18:49:53] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » antes
+[18:50:08] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a ElPishulaDeHueso!
+[18:50:10] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡ElPishulaDeHueso ha aceptado tu teletransportación!
+[18:50:13] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ok
+[18:50:37] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » eso pasa por matar gente xD
+[18:51:08] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » [Firma de PlasMinek... (x1)]
+[18:51:12] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » vendo mazo
+[18:51:24] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » Vendo mazo
+[18:51:26] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » [Firma de PlasMinek... (x1)]
+[18:51:36] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » SrPapa 250k
+[18:51:49] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » dame 200k
+[18:53:11] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ahi les mande 15k
+[18:53:47] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » robin en unas horas te envio mas
+[18:55:00] [Render thread/INFO]: [System] [CHAT]  MINELATINO » i_TAPYO ha pedido teletransportarse hacia a ti
+[18:55:00] [Render thread/INFO]: [System] [CHAT]  ✔ Escribe /tpaccept para aceptar el teletransporte.
+[18:55:00] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos; no aceptes peticiones de desconocidos.
+[18:55:04] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q quieres i_TAPYO?
+[18:56:08] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a ElPishulaDeHueso!
+[18:56:10] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡ElPishulaDeHueso ha aceptado tu teletransportación!
+[18:57:35] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a ElPishulaDeHueso!
+[18:57:36] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡ElPishulaDeHueso ha aceptado tu teletransportación!
+[18:59:41] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ....
+[19:00:42] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » XDD alabestia
+[19:01:09] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » XDD
+[19:01:21] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q alto XD
+[19:01:44] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » GG
+[19:01:46] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ajjaajaa
+[19:01:47] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » X
+[19:01:48] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » D
+[19:02:07] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » tengo home en su base XD quien quiere venir
+[19:02:13] [Render thread/INFO]: [System] [CHAT]  MINELATINO » BizzKun ha pedido teletransportarse hacia a ti
+[19:02:13] [Render thread/INFO]: [System] [CHAT]  ✔ Escribe /tpaccept para aceptar el teletransporte.
+[19:02:13] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos; no aceptes peticiones de desconocidos.
+[19:02:20] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » Tengo home en la base del pishuladehueso
+[19:02:21] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » XD
+[19:02:23] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[19:02:54] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » yo lo vendi i_TAPYO xD le dije a un staff que venga
+[19:02:58] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » y le dije q vuela XD
+[19:06:21] [Render thread/INFO]: [System] [CHAT]  MINELATINO » i_TAPYO ha pedido teletransportarse hacia a ti
+[19:06:21] [Render thread/INFO]: [System] [CHAT]  ✔ Escribe /tpaccept para aceptar el teletransporte.
+[19:06:21] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos; no aceptes peticiones de desconocidos.
+[19:06:23] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[19:07:13] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de Naranjitia67!
+[19:07:20] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de Naranjitia67!
+[19:07:33] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de Naranjitia67!
+[19:07:39] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de Naranjitia67!
+[19:07:41] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de Naranjitia67!
+[19:07:44] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de Naranjitia67!
+[19:07:48] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de Naranjitia67!
+[19:07:49] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de Naranjitia67!
+[19:08:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de Naranjitia67!
+[19:08:05] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de Naranjitia67!
+[19:08:26] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a i_TAPYO!
+[19:08:49] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡i_TAPYO ha aceptado tu teletransportación!
+[19:09:11] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de Naranjitia67!
+[19:09:14] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de Naranjitia67!
+[19:09:20] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a DeMon_pp!
+[19:09:53] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a Zarpas_!
+[19:10:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Zarpas_ ha aceptado tu teletransportación!
+[19:10:09] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a Zarpas_!
+[19:10:12] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Zarpas_ ha aceptado tu teletransportación!
+[19:10:39] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a JoycieH!
+[19:11:03] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡JoycieH ha aceptado tu teletransportación!
+[19:12:54] [Render thread/INFO]: [System] [CHAT]  MINELATINO » i_TAPYO ha pedido teletransportarse hacia a ti
+[19:12:54] [Render thread/INFO]: [System] [CHAT]  ✔ Escribe /tpaccept para aceptar el teletransporte.
+[19:12:54] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos; no aceptes peticiones de desconocidos.
+[19:13:24] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[19:13:34] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » me matan :(
+[19:19:40] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a i_TAPYO!
+[19:19:59] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡i_TAPYO ha aceptado tu teletransportación!
+[19:28:22] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » con lanza XD
+[19:28:38] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » con lanza :v
+[19:29:40] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a i_TAPYO!
+[19:31:42] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a i_TAPYO!
+[19:31:55] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡i_TAPYO ha aceptado tu teletransportación!
+[19:36:40] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a DeMon_pp!
+[19:36:50] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a JoycieH!
+[19:39:16] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a Shafiff5070!
+[19:39:19] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Shafiff5070 ha aceptado tu teletransportación!
+[19:39:49] [Render thread/INFO]: [System] [CHAT] [][U] josetl » feliz dia de las mamis
+[19:40:50] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a .IsaacA0156!
+[19:41:40] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a DeMon_pp!
+[19:42:01] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a Adriasan!
+[19:42:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Adriasan ha aceptado tu teletransportación!
+[19:42:14] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » CuanTOOO
+[19:43:04] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » CuantOOoo
+[19:43:08] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a Zarpas_!
+[19:43:32] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a Zarpas_!
+[19:43:58] [Render thread/INFO]: [System] [CHAT] [FYA][LATAM+][||✱||2024||✱||] Adriasan » ./ps ban Naranjitia67
+[19:44:02] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » :(
+[19:44:07] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » mefui
+[19:46:07] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » denada breeezy081
+[19:46:23] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » quien mas quiere rango
+[19:46:27] [Render thread/INFO]: [System] [CHAT] [][U] josetl » yio
+[19:46:31] [Render thread/INFO]: [System] [CHAT] [][U] josetl » no
+[19:46:34] [Render thread/INFO]: [System] [CHAT] [][U] josetl » xd
+[19:46:41] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » xD
+[19:46:44] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » usen /shop
+[19:46:52] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » para tags
+[19:47:59] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a DeMon_pp!
+[19:48:25] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡DeMon_pp ha aceptado tu teletransportación!
+[19:48:37] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » tp kill
+[19:49:09] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » bro tremendo tpkill xD
+[19:55:50] [Render thread/INFO]: [System] [CHAT] [][U] josetl » a
+[19:55:51] [Render thread/INFO]: [System] [CHAT] [][U] josetl » XD
+[19:55:56] [Render thread/INFO]: [System] [CHAT] [][U] josetl » vivo a lado
+[19:56:45] [Render thread/INFO]: [System] [CHAT] [][U] josetl » bueno chau kirito_kun
+[19:58:19] [Render thread/INFO]: [System] [CHAT] [][U] josetl » regalo granja de xp
+[19:58:24] [Render thread/INFO]: [System] [CHAT] [][U] josetl » esa normalida de mobs
+[19:58:26] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a DeMon_pp!
+[19:58:34] [Render thread/INFO]: [System] [CHAT] [][U][Luchador] Zarpas_ » ola josetl
+[19:58:39] [Render thread/INFO]: [System] [CHAT] [][U] josetl » hola Zarpas_
+[19:58:43] [Render thread/INFO]: [System] [CHAT] [][U] josetl » tpeate p soldiertf2
+[19:58:44] [Render thread/INFO]: [System] [CHAT] [][U]｢ᴄᴜᴘɪᴅᴏ｣ JoycieH » Naranjitia67
+[19:58:50] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » que
+[19:58:57] [Render thread/INFO]: [System] [CHAT] [][U] josetl » oe soldiertf2 estoy vaciando un chunk en tu base
+[19:59:05] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q paso JoycieH?
+[20:00:39] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a JoycieH!
+[20:02:33] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a gabx144!
+[20:02:36] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡gabx144 ha aceptado tu teletransportación!
+[20:02:51] [Render thread/INFO]: [System] [CHAT] [][U] josetl » me encontre una base, alguien la quiere?
+[20:02:58] [Render thread/INFO]: [System] [CHAT] [][U] josetl » Shafiff5070 pon /ps view
+[20:03:11] [Render thread/INFO]: [System] [CHAT] [][U] josetl » tepeate ps soldiertf2
+[20:03:19] [Render thread/INFO]: [System] [CHAT] [][U] josetl » ase rato te etoy diciendo xd
+[20:04:30] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a DeMon_pp!
+[20:04:33] [Render thread/INFO]: [System] [CHAT] [][U] josetl » nose esa granja n osirve, la otra si
+[20:04:47] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » sin limite Zarpas_
+[20:05:59] [Render thread/INFO]: [System] [CHAT] [][U] josetl » alguien me regala xcaparazon de tortuga? 3
+[20:06:00] [Render thread/INFO]: [System] [CHAT] [][U] josetl » :3
+[20:07:15] [Render thread/INFO]: [System] [CHAT] [][U] josetl » soldiertf2
+[20:07:40] [Render thread/INFO]: [System] [CHAT] [][U] josetl » XD
+[20:07:44] [Render thread/INFO]: [System] [CHAT] [][U] josetl » sin prote
+[20:08:10] [Render thread/INFO]: [System] [CHAT] [][U] josetl » xd
+[20:08:30] [Render thread/INFO]: [System] [CHAT] [][U] josetl » nose
+[20:09:09] [Render thread/INFO]: [System] [CHAT] [][U] josetl » xdd
+[20:10:56] [Render thread/INFO]: [System] [CHAT] soldiertf2 ha sido víctima de josetl
+[20:10:59] [Render thread/INFO]: [System] [CHAT] [][U] josetl » xdd
+[20:11:01] [Render thread/INFO]: [System] [CHAT] [][U] josetl » tepeate
+[20:11:16] [Render thread/INFO]: [System] [CHAT] [][U] josetl » Tpeateee
+[20:11:23] [Render thread/INFO]: [System] [CHAT] [][U] josetl » soldiertf2
+[20:11:48] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Lui2BleP ha pedido teletransportarse hacia a ti
+[20:11:48] [Render thread/INFO]: [System] [CHAT]  ✔ Escribe /tpaccept para aceptar el teletransporte.
+[20:11:48] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos; no aceptes peticiones de desconocidos.
+[20:11:58] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[20:12:18] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a MeriYein421!
+[20:12:20] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡MeriYein421 ha aceptado tu teletransportación!
+[20:12:55] [Render thread/INFO]: [System] [CHAT] [][U] josetl » ola
+[20:13:43] [Render thread/INFO]: [System] [CHAT] [][U] josetl » peldon
+[20:14:25] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (YO ▻ Lui2BleP) » con /pay Naranjitia67 8k
+[20:14:42] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » paga primero :V
+[20:14:45] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » no te robare XD
+[20:15:12] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ahi estan
+[20:16:31] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a .IsaacA0156!
+[20:16:35] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q miro isac
+[20:16:51] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » aver
+[20:17:02] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » xd
+[20:17:11] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » .IsaacA0156?
+[20:17:23] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡.IsaacA0156 ha aceptado tu teletransportación!
+[20:17:27] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a .IsaacA0156!
+[20:17:35] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » se cancelo isac xd
+[20:17:37] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » acepta dnvo
+[20:17:40] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡.IsaacA0156 ha aceptado tu teletransportación!
+[20:17:49] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » que miro?
+[20:17:58] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » wowa
+[20:18:15] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » como subo xD me cai
+[20:18:20] [Render thread/INFO]: [System] [CHAT] [][U] josetl » a
+[20:18:34] [Render thread/INFO]: [System] [CHAT] [][U] josetl » XD
+
+>>>>>>>>>> ⚠️ ALERTA: POSIBLE TPAKILL DETECTADO ⚠️ <<<<<<<<<<
+[20:18:35] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a .IsaacA0156!
+[20:18:37] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » acepta xD
+[20:18:39] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » atrapada
+[20:18:40] [Render thread/INFO]: [System] [CHAT] [][U] josetl » ala si funciona
+[20:18:41] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡.IsaacA0156 ha aceptado tu teletransportación!
+[20:18:42] [Render thread/INFO]: [System] [CHAT] [][U] josetl » mira
+[20:18:43] [Render thread/INFO]: [System] [CHAT] [][U] josetl » su cofre
+[20:18:54] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » porque hay bajada?
+[20:19:13] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » que
+[20:19:25] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » meda miedo
+[20:19:31] [Render thread/INFO]: [System] [CHAT] josetl ha tirado a Zarpas_ desde muy alto
+>>>>>>>>>> ------------------------------------------------ <<<<<<<<<<
+
+[20:19:36] [Render thread/INFO]: [System] [CHAT] [][U] josetl » a
+[20:19:39] [Render thread/INFO]: [System] [CHAT] [][U] josetl » perdon XD
+[20:19:48] [Render thread/INFO]: [System] [CHAT] [][U] josetl » tepeate
+[20:19:58] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » para q llo hicistes XD
+[20:20:04] [Render thread/INFO]: [System] [CHAT] [][U] josetl » altokeee
+[20:20:04] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » porke
+[20:20:22] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » no xd
+[20:20:24] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » medamiedo
+[20:20:41] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » como hicistes eso?
+[20:20:53] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » 30 mordidas?
+[20:20:55] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » de quien o que
+[20:21:08] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » hay zombies?
+[20:21:17] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » cuantos hay?
+[20:21:32] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » cuantos XD
+[20:21:40] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » lla hicistes tu?
+[20:21:47] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » y paraque
+[20:22:23] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » xD
+[20:22:24] [Render thread/INFO]: [System] [CHAT] [][U] josetl » si funciona
+[20:22:25] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » a quien .-.
+[20:22:31] [Render thread/INFO]: [System] [CHAT] josetl ha tirado a Zarpas_ desde muy alto
+[20:22:35] [Render thread/INFO]: [System] [CHAT] [][U] josetl » XD
+[20:22:39] [Render thread/INFO]: [System] [CHAT] [][U] josetl » mano
+[20:23:07] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » y eso q es
+[20:23:11] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » xD no
+[20:23:14] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » tirate tu
+[20:23:28] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » tapa con eso xD
+[20:23:32] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » tapalo
+[20:23:34] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » es peligroso
+[20:23:53] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » pone algo para tapar..
+[20:24:16] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » lanzate
+[20:24:22] [Render thread/INFO]: [System] [CHAT] Zarpas_ ha sido víctima de josetl y su [as マＷＨＩＴＥＲＫＩＳＳマ as]
+[20:24:31] [Render thread/INFO]: [System] [CHAT] [][U] josetl » oe tienes mala internet no?
+[20:24:43] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » lanzate isac
+[20:24:44] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » XD
+[20:24:50] [Render thread/INFO]: [System] [CHAT] [][U] josetl » tpeate
+[20:24:52] [Render thread/INFO]: [System] [CHAT] [][U] josetl » de nuevo
+[20:24:59] [Render thread/INFO]: [System] [CHAT] Naranjitia67 ha sido víctima de Fantasma
+[20:25:03] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » xd
+
+>>>>>>>>>> ⚠️ ALERTA: POSIBLE TPAKILL DETECTADO ⚠️ <<<<<<<<<<
+[20:25:08] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a .IsaacA0156!
+[20:25:13] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » me mori
+[20:25:28] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » mis cosas .IsaacA0156 :p
+[20:25:28] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡.IsaacA0156 ha aceptado tu teletransportación!
+[20:25:39] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » mi arquito xd
+[20:25:42] [Render thread/INFO]: [System] [CHAT] Zarpas_ ha sido víctima de josetl
+>>>>>>>>>> ------------------------------------------------ <<<<<<<<<<
+
+[20:25:54] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » xD seme olvido
+[20:25:58] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » eso estaba haciendo
+[20:26:06] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » para lanzarme
+[20:26:09] [Render thread/INFO]: [System] [CHAT] [][U] josetl » yaya
+[20:26:10] [Render thread/INFO]: [System] [CHAT] [][U] josetl » perdon
+[20:26:14] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » mis cosas :p
+[20:26:27] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » XD
+[20:26:46] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » isac
+[20:26:51] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » me das una armadura de diamante xd
+[20:27:04] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » XD
+[20:27:05] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » porqueno
+[20:27:30] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » dame
+[20:27:34] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » una armadura de diamante xd
+[20:27:40] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » yo ayer te di como 20k :(
+[20:27:58] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » es dinero
+[20:28:01] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » y tu no me das nada
+[20:28:07] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » nisiquiera 1 armor de diamante :(
+[20:28:25] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » isac malo :(
+[20:28:48] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » de pokkii
+[20:28:55] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ...
+[20:28:59] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » sale en tu nombre xD
+[20:29:02] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » no sabias?
+[20:29:14] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » me das almenos una armor de hierro?
+[20:29:19] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » para protejerme de los mobs
+[20:30:45] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » faltan botas
+[20:31:19] [Render thread/INFO]: [System] [CHAT] [][U] josetl » alguien tiene el hongo marron=
+[20:31:20] [Render thread/INFO]: [System] [CHAT] [][U] josetl » ?
+[20:31:23] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ...
+[20:31:29] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » me humillas .IsaacA0156 :(
+[20:31:35] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » estas seguro de q me humillas :(
+[20:31:38] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » [De Isaac esposo de... (x1)]
+[20:31:40] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » eso no se hace
+[20:31:59] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » porke :(
+[20:32:00] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » me odias
+[20:32:14] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » porque lo hicistes,,, :(
+[20:33:13] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (YO ▻ .IsaacA0156) » te cae bien el josetl?
+[20:34:26] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (YO ▻ .IsaacA0156) » te cae bien el josetl?
+[20:35:04] [Render thread/INFO]: [System] [CHAT] §6§l ➥ §6✉ (.IsaacA0156 ▻ YO) » josetl falsa alarma quiere a alguien qu3 me caiga mal XD
+[20:35:37] [Render thread/INFO]: [System] [CHAT] [][U] josetl » ola
+[20:35:47] [Render thread/INFO]: [System] [CHAT] [][U] josetl » solo vine de paseo
+[20:36:05] [Render thread/INFO]: [System] [CHAT] .IsaacA0156 ha explotado por Naranjitia67 usando [sniper]
+[20:36:12] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » isac por humillarme :(
+[20:36:47] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » isac nunca olvidare la humillacion q me hicistes..
+[20:36:52] [Render thread/INFO]: [System] [CHAT] [][U] josetl » xd
+[20:36:55] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » te casastes conmigo y me cambias por pokki
+[20:37:09] [Render thread/INFO]: [System] [CHAT] [][U] josetl » dime .IsaacA0156
+[20:37:31] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Lui2BleP ha pedido teletransportarse hacia a ti
+[20:37:31] [Render thread/INFO]: [System] [CHAT]  ✔ Escribe /tpaccept para aceptar el teletransporte.
+[20:37:31] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos; no aceptes peticiones de desconocidos.
+[20:37:35] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[20:39:46] [Render thread/INFO]: [System] [CHAT] [][U] josetl » tpeeate p Naranjitia67
+[20:39:51] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q quieres josetl?
+[20:39:56] [Render thread/INFO]: [System] [CHAT] [][U] josetl » un abrazo tuyo
+[20:40:07] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ok espera ya voy josetl
+[20:40:22] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a josetl!
+[20:40:28] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡josetl ha aceptado tu teletransportación!
+[20:40:28] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Teletransportándose a josetl!
+[20:40:29] [Render thread/INFO]: [System] [CHAT] [][U]｢ᴄᴜᴘɪᴅᴏ｣ JoycieH » no acepten tp de Naranjitia67 roba cosas y mata
+[20:40:31] [Render thread/INFO]: [System] [CHAT] [][U]｢ᴄᴜᴘɪᴅᴏ｣ JoycieH » no acepten tp de Naranjitia67 roba cosas y mata
+[20:40:31] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q quieres josetl para que quieres q te envie tp
+[20:40:33] [Render thread/INFO]: [System] [CHAT] [][U]｢ᴄᴜᴘɪᴅᴏ｣ JoycieH » no acepten tp de Naranjitia67 roba cosas y mata
+[20:40:35] [Render thread/INFO]: [System] [CHAT] [][U]｢ᴄᴜᴘɪᴅᴏ｣ JoycieH » no acepten tp de Naranjitia67 roba cosas y mata
+[20:40:36] [Render thread/INFO]: [System] [CHAT] [][U] josetl » XD
+[20:40:45] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q paso josetl?
+
+>>>>>>>>>> ⚠️ ALERTA: POSIBLE TPAKILL DETECTADO ⚠️ <<<<<<<<<<
+[20:40:48] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡La petición ha sido enviada a josetl!
+[20:41:04] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡josetl ha aceptado tu teletransportación!
+[20:41:04] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Teletransportándose a josetl!
+[20:41:12] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » q paso josetl?
+[20:41:21] [Render thread/INFO]: [System] [CHAT] Naranjitia67 ha caído desde muy alto
+>>>>>>>>>> ------------------------------------------------ <<<<<<<<<<
+
+[20:41:29] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » XD tremendo josetl
+[20:41:35] [Render thread/INFO]: [System] [CHAT] [][U] josetl » pq te caes xd
+[20:41:43] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ok...
+[20:41:46] [Render thread/INFO]: [System] [CHAT] [JRAN][IRON][Luchador] .IsaacA0156 » josetl como la cagas XD
+[20:41:57] [Render thread/INFO]: [System] [CHAT] [][U] josetl » se cayo solo despues xd
+[20:42:38] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » josetl es tp kill eso sabias?
+[20:42:53] [Render thread/INFO]: [System] [CHAT] [][U] josetl » no es si te moriste solo
+[20:43:04] [Render thread/INFO]: [System] [CHAT] [][U] josetl » tu rompes el bloque te mueres y me culpas xd
+[20:43:12] [Render thread/INFO]: [System] [CHAT] [][U] josetl » tu que opinas adriasan
+[20:43:37] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » ...
+[20:43:45] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » me ormpiestes el bloque xD
+[20:43:48] [Render thread/INFO]: [System] [CHAT] [][U] Naranjitia67 » y me dices q te envie tp
+[20:43:56] [Render thread/INFO]: [System] [CHAT] [][U] josetl » fue idea de .IsaacA0156

@@ -1,0 +1,519 @@
+================================================================================
+ESTADÍSTICAS DE FILTRADO
+================================================================================
+
+🔍 ESTADO DE INVESTIGACIÓN TPAKILL:
+  [⚠️ ALERTA] Se detectaron 1 posible(s) caso(s) de TPAKILL.
+             (Muerte registrada en menos de 3 minutos tras un TPA)
+
+Menciones por jugador:
+  • permanent4k: 200 líneas
+  • zJuanm: 274 líneas
+
+Tipos de mensajes:
+  • Mensaje de chat: 346
+  • Sistema: 100
+  • Movimiento de zona: 34
+  • Conexión: 10
+
+⚠️  Líneas ignoradas (basura del servidor): 3
+
+================================================================================
+TOTAL: 495 líneas encontradas
+================================================================================
+
+[14:36:33] [Render thread/INFO]: Setting user: permanent4k
+[14:37:06] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[14:37:15] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[14:37:28] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[14:37:38] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[14:38:30] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[14:38:56] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Nany_v te ha pedido teletransportarse hasta ti.
+[14:38:56] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[14:38:57] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[14:39:40] [Render thread/INFO]: [System] [CHAT]  MINELATINO » SrBrazers te ha pedido teletransportarse hasta ti.
+[14:39:40] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[14:39:41] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[14:42:20] [Render thread/INFO]: [System] [CHAT]  MINELATINO » SrBrazers te ha pedido teletransportarse hasta ti.
+[14:42:20] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[14:42:21] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[14:46:49] [Render thread/INFO]: [System] [CHAT] [0] [Usu] permanent4k: L3ON4RD014
+[14:47:14] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (1/8)!
+[14:47:27] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (3/16)!
+[14:48:21] [Render thread/INFO]: [System] [CHAT]  MINELATINO » permanent4k se cayó al vacío
+[14:50:00] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: ola
+[14:50:19] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: ando com mi pareja bro
+[14:51:03] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (1/2)!
+[14:54:27] [Render thread/INFO]: [System] [CHAT]  2. permanent4k: 22
+[14:55:10] [Render thread/INFO]: [System] [CHAT] [!] Visita tus estadísticas públicas en UniversoCraft desde: stats.universocraft.com/jugador/permanent4k
+[14:56:00] [Render thread/INFO]: [System] [CHAT]  1. permanent4k: 26
+[14:57:13] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (11/12)!
+[14:57:46] [Render thread/INFO]: [System] [CHAT] permanent4k ha sido asesinado por CarlBy2008.
+[14:58:08] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: leo gay
+[14:59:10] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (3/12)!
+[15:00:01] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (8/12)!
+[15:02:01] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (5/12)!
+[15:02:15] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: carles gay
+[15:02:34] [Render thread/INFO]: [System] [CHAT] [Usu] permanent4k: su mm
+[15:04:00] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (2/12)!
+[15:06:17] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (2/12)!
+[15:07:40] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (9/12)!
+[15:09:02] [Render thread/INFO]: [System] [CHAT] ¡permanent4k se ha unido (6/12)!
+[15:14:01] [Render thread/INFO]: [System] [CHAT] permanent4k ha muerto.
+[15:19:50] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[15:20:17] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[15:20:23] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[15:32:52] [Render thread/INFO]: [System] [CHAT]  MINELATINO » CiroNexx te ha pedido teletransportarse hasta ti.
+[15:32:52] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[15:33:07] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[15:41:52] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » laaaaaaaaaaag
+[15:42:07] [Render thread/INFO]: [System] [CHAT] [SSCL]「⚡」「¡Sabroso!」 AboGames » permanent4k evita flood
+[15:47:26] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » abo
+[15:47:41] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » sera que puedo farmear perlas?
+[15:47:47] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » o despues
+[15:47:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » listo abo gracias
+[15:48:00] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[15:52:59] [Render thread/INFO]: [System] [CHAT]  MINELATINO » L3ON4RD014 te ha pedido teletransportarse hasta ti.
+[15:52:59] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[15:53:00] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[15:55:10] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » erick1304
+[15:55:49] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien pvp
+[15:56:46] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo
+[15:56:50] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » eh eh
+[15:57:47] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » lucas
+[15:57:58] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo soy un individuo pero no vendo lana negra
+[15:58:08] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XD
+[15:58:21] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » callese
+[15:58:22] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » usted
+[15:58:27] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » metida
+[15:58:51] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » hacer amigos w
+[15:58:58] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » aver
+[15:58:59] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » acepta
+[15:59:09] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » quiero ver
+[15:59:31] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » lvl de miedo 10000 de 10
+[15:59:45] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » dijiste q me iria dropeado w
+[16:01:13] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Angxstw miedito
+[16:01:23] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tanto que te la das de aca
+[16:01:59] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo si me baño w
+[16:02:05] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tu sera q hueles por eso sabes
+[16:02:41] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » sofiu
+[16:02:55] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ccon rango
+[16:04:27] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo
+[16:04:30] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » cuanto das
+[16:04:44] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » en /ah
+[16:05:03] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » en /ah
+[16:06:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » quien pvp devuelvo cosas
+[16:06:20] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[16:06:47] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[16:09:05] [Render thread/INFO]: [System] [CHAT]  ☢ [URSS] | permanent4k » ciro
+[16:09:15] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[16:09:31] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » [colombia in the house x1]
+[16:11:09] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[16:11:30] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[16:18:53] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo voto
+[16:20:09] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:20:58] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo desactivado para permanent4k.
+[16:22:20] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » aliskark
+[16:23:18] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » es m ejor supreme
+[16:45:02] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:45:58] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[16:46:17] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo desactivado para permanent4k.
+[16:46:19] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:46:21] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[16:46:39] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:47:12] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[16:47:37] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[17:12:25] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[17:12:28] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[17:13:20] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[17:13:29] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[17:17:01] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien pvp
+[17:17:39] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien pvp
+[17:17:41] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien pvp
+[17:17:50] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » olas
+[17:18:14] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[17:18:49] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo
+[17:19:48] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » *pv
+[17:21:29] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro varas de breeze
+[17:21:58] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien pvp
+[17:25:28] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » patitooooooo
+[17:25:32] [Render thread/INFO]: [System] [CHAT] [🥇][ONLY][INFINITE][G]「☘」|ᴍᴍxxᴠ|「☘」 Pata4881 » zJuanm
+[17:29:14] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien quiere aldea con aldeanos /ypa
+[17:29:24] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien quiere aldea con aldeanos /ypa
+[17:30:06] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien quiere aldea con aldeanos /ypa
+[17:30:09] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien quiere aldea con aldeanos /tpa
+[17:30:50] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien quiere aldea con aldeanos /tpa
+[17:30:51] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien quiere aldea con aldeanos /tpa
+[17:31:00] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien quiere aldea con aldeanos /tpa
+[17:31:07] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien quiere aldea con aldeanos /tpa
+[17:31:29] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » sofialove usted callese
+[17:32:52] [Render thread/INFO]: [System] [CHAT] .COBRAKAY_902 fue víctima de zJuanm
+[17:33:28] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » bro
+[17:33:29] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ese xrayer
+[17:33:34] [Render thread/INFO]: [System] [CHAT] [][U] .COBRAKAY_902 » el zjuanm es tapkiller
+[17:33:40] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » claro q no
+[17:33:52] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » DreamChibiado
+[17:33:54] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » el .COBRAKAY_902
+[17:33:56] [Render thread/INFO]: [System] [CHAT] [HELPER] DreamChibiado » Dime zJuanm
+[17:33:57] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » es xrayer
+[17:34:18] [Render thread/INFO]: [System] [CHAT] [HELPER] DreamChibiado » Si tienes pruebas reportalo en /discord zJuanm
+[17:34:36] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Q XD
+[17:35:01] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .COBRAKAY_902
+[17:35:12] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .COBRAKAY_902 como tiene 8 stack de diamantes y 10 de redstone XD
+[17:38:29] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » tengo algunas menas de amatista alguien le interesa regalo
+[17:39:06] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[17:39:11] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[17:39:11] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[17:41:11] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo
+[17:41:14] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » miguelxde3
+[17:41:16] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ya?
+[17:41:41] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola dre
+[17:41:58] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola dreanchibiado
+[17:42:10] [Render thread/INFO]: [System] [CHAT] [HELPER] DreamChibiado » Hola permanent4k
+[17:42:14] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » no q un mexico sin hambre claudia
+[17:42:16] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que tal dream?
+[17:42:19] [Render thread/INFO]: [System] [CHAT] zJuanm experimentó la energía cinética
+[17:42:28] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XDDD
+[17:43:04] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » mis elytras
+[17:43:21] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XDD
+[17:43:24] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » alguien vende trial chamber??
+[17:43:27] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ya te hiba a matar
+[17:43:32] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » me habia muerto
+[17:43:33] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » alguien vende trial chamber??
+[17:44:17] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » pata
+[17:44:32] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Lendkaka
+[17:44:34] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo no
+[17:44:47] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .COBRAKAY_90
+[17:44:52] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » te doy armor de netherite
+[17:45:53] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » averlos
+[17:46:05] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » aver
+[17:46:10] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » los escombros
+[17:46:20] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ok
+[17:47:13] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » dame
+[17:47:24] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tu primero
+[17:47:41] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ay vengo
+[17:47:42] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera
+[17:48:03] [Render thread/INFO]: [System] [CHAT] .COBRAKAY_902 fue aplastado(a) por zJuanm
+[17:48:25] [Render thread/INFO]: [System] [CHAT] permanent4k consiguió el progreso [Bajo llave]
+[17:48:54] [Render thread/INFO]: [System] [CHAT] [][U] .COBRAKAY_902 » zjuanm gg te ganaste ban
+[17:49:02] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » lo espero
+[17:49:04] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » lo espero
+[17:49:35] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » matu
+[17:49:47] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola apache
+[17:50:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ApacheSkill me tenes varas de brezee?
+[17:51:45] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » uzi
+[17:52:25] [Render thread/INFO]: [System] [CHAT] zJuanm fue detonado(a) por Creeper
+[17:52:30] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » chingao
+[18:17:14] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[18:17:45] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » bueno muchachos me voy adios
+[18:17:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » feliz noche
+[20:51:27] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[20:51:33] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[20:51:35] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de permanent4k!
+[20:51:40] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » olaaa
+[20:51:59] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:52:07] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:52:33] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:54:06] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:55:54] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:55:59] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:56:05] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de permanent4k!
+[20:56:15] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[20:56:25] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo desactivado para permanent4k.
+[20:56:27] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[20:56:28] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:56:42] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[20:57:53] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[21:00:51] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » SugaManny
+[21:01:31] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » 100 pesos
+[21:02:04] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » jajajajajajajaj
+[21:02:44] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro baras de brezee
+[21:11:32] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola ChoripanDelux
+[21:12:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » regalo 30 diamantes a la primera persona que mande tp
+[21:12:36] [Render thread/INFO]: [System] [CHAT]  MINELATINO » willin500 te ha pedido teletransportarse hasta ti.
+[21:12:36] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[21:12:39] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[21:13:26] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » jejejeje
+[21:13:38] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola roy
+[21:13:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » na loso era saludar
+[21:16:05] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » [colombia in the house x1]
+[21:16:33] [Render thread/INFO]: [System] [CHAT]  MINELATINO » .DiscoStraw8542 te ha pedido teletransportarse hasta ti.
+[21:16:33] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[21:16:37] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[21:16:54] [Render thread/INFO]: [System] [CHAT]  MINELATINO » .DiscoStraw8542 te ha pedido teletransportarse hasta ti.
+[21:16:54] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[21:16:56] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[21:17:19] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » llegas tarde rey pero como veo que tienes pocas horas
+[21:18:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » hay tienes rey
+[21:18:30] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » dale si nesesitas algo no dudes en llamarme
+[21:22:38] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » hola paules de los paules c:
+[21:23:46] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » hola paules de los paules c:
+[21:24:02] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » jejej como vas paul
+[21:24:46] [Render thread/INFO]: [System] [CHAT]  MINELATINO » permanent4k se cayó al vacío
+[21:25:32] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » chao chori
+[21:31:03] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » AlexCam15 que grosero
+[21:38:12] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ola rol
+[21:48:11] [Render thread/INFO]: [System] [CHAT] [][U] zManuelXo » antes era zJuanm
+[21:52:02] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » 7home casadelaesclavisacion
+[21:54:29] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » zManuelXo
+[21:54:33] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » soy yo pero tu eres yo
+[21:56:06] [Render thread/INFO]: [System] [CHAT] zJuanm fue asesinado(a) por Enderman
+[21:58:09] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » [ Restaurante La caverna de URSS abre sus puertas despues de 3 meses, ¡el mejor restaurante de todo Minelatino!, /pw LacavernadeURSS o /msg permanent4k (para reserva) x1]
+[21:59:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Hola buenas noches
+[22:00:14] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » desea ir a el 2do miso?
+[22:00:19] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » piso*
+[22:00:37] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » no señor desaforunadamente
+[22:01:04] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que desea?
+[22:01:21] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » listo a la orden
+[22:02:42] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » seria 5k señor
+[22:03:08] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Te hise un regalo de una torta de jamon que no esta en la carta
+[22:03:23] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » es postre de la casa
+[22:03:44] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Muchas gracias Lion2
+[22:04:08] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Lion2 agradeceria mucho que reseñes el pw en /pw
+[22:04:16] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » me ayudaria mucho
+[22:06:02] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » apache pasas por el restaurante?? me haria mucha ilucion
+[22:06:16] [Render thread/INFO]: [System] [CHAT] [JINX][⚡]⌞⛧ |⸸| ⛧⌝ 1 » enserio permanent4k :$
+[22:06:21] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » SI _3
+[22:06:43] [Render thread/INFO]: [System] [CHAT]  MINELATINO » 1 te ha pedido teletransportarse hasta ti.
+[22:06:43] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[22:06:46] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[22:06:59] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Bienvenido ApacheSkill
+[22:07:05] [Render thread/INFO]: [System] [CHAT] [JINX][⚡]⌞⛧ |⸸| ⛧⌝ 1 » gracias permanent4k
+[22:07:08] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » a la caverna de irrs
+[22:07:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » deseas 2do piso o primer?
+[22:07:28] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » deseas 2do piso o primer?
+[22:07:49] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[22:07:49] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » bienvenida MininYaw
+[22:08:04] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » no eres hacker?
+[22:08:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » si señora
+[22:08:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que desean?
+[22:08:24] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tpa
+[22:08:48] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Listo a la orden
+[22:08:58] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .DiscoStraw8542
+[22:08:59] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tpa
+[22:09:47] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .DiscoStraw8542
+[22:09:47] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tpa
+[22:10:18] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » :V
+[22:10:25] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » me das lastima XD
+[22:10:33] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 fue aplastado(a) por zJuanm
+[22:10:35] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Con gusto provechp
+[22:10:41] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » envia tpa .DiscoStraw8542
+[22:10:46] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tu basura
+[22:10:56] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » .DiscoStraw8542
+[22:10:57] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tpa
+[22:10:58] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » lsito señor
+[22:11:20] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » espere un momento porfavor
+[22:11:32] [Render thread/INFO]: [System] [CHAT] .DiscoStraw8542 fue aplastado(a) por zJuanm
+[22:11:37] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » envia atpa otra
+[22:11:39] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » rapido
+[22:11:50] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tpa
+[22:11:52] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » rapido :V
+[22:11:59] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » si no quemo tu basura
+[22:12:20] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » TheChrisGameTCG
+[22:12:21] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » pvp
+[22:12:35] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ua
+[22:12:37] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » TheChrisGameTCG
+[22:12:38] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Sr apache
+[22:13:15] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Bueno señor muchas gracias
+[22:13:35] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Poer favor me daria su calificacion del 1 al 10 para el mural porfa
+[22:13:57] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Esta en mantenimiento
+[22:14:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Muchas gracias MininYaw
+[22:14:37] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » pondre tu calificacion aca apache
+[22:15:03] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tQuien pvp
+[22:15:15] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Quien pvp
+[22:15:49] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » Listo sr ApacheSkill muchas gracias por tu visita
+[22:19:17] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[22:19:28] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelves cosas?
+[22:19:50] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yo
+[22:19:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelves cosas?
+[22:19:58] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[22:20:31] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[22:20:36] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » QUIEN PVP
+[22:20:40] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm
+[22:20:44] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ?
+[22:21:03] [Render thread/INFO]: [System] [CHAT]  MINELATINO » zJuanm te ha pedido teletransportarse hasta ti.
+[22:21:03] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[22:21:29] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » espera un minuto zJuanm
+[22:21:35] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo desactivado para permanent4k.
+[22:21:36] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » pk
+[22:21:39] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ok
+[22:22:07] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » willin500 :O
+[22:22:17] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » willin500
+[22:22:19] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » hola amor
+[22:22:23] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » mira esto
+[22:23:01] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[22:23:11] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm ya
+[22:23:12] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » willin500 por q corres we
+[22:23:17] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[22:23:17] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tpa
+[22:23:28] [Render thread/INFO]: [System] [CHAT]  MINELATINO » La petición ha sido enviada a zJuanm.
+[22:23:30] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera
+
+>>>>>>>>>> ⚠️ ALERTA: POSIBLE TPAKILL DETECTADO ⚠️ <<<<<<<<<<
+[22:24:01] [Render thread/INFO]: [System] [CHAT]  MINELATINO » L3ON4RD014 te ha pedido teletransportarse hasta ti.
+[22:24:01] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[22:24:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[22:24:30] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » willin500
+[22:24:32] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera
+[22:24:56] [Render thread/INFO]: [System] [CHAT]  MINELATINO » zJuanm ha aceptado tu teletransportación.
+[22:24:56] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Teletransportándose a zJuanm.
+[22:25:02] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » go?
+[22:25:49] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » q asco
+[22:25:51] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera
+[22:25:52] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tengo lag
+[22:25:57] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera w
+[22:26:03] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera
+[22:26:05] [Render thread/INFO]: [System] [CHAT]  MINELATINO » permanent4k se cayó al vacío
+>>>>>>>>>> ------------------------------------------------ <<<<<<<<<<
+
+[22:27:41] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera
+[22:27:50] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » me quede sin cargas
+[22:27:52] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera
+[22:27:57] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ah
+[22:28:24] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » q
+[22:28:30] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » se me bugeo
+[22:28:35] [Render thread/INFO]: [System] [CHAT]  MINELATINO » L3ON4RD014 te ha pedido teletransportarse hasta ti.
+[22:28:35] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[22:28:53] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » :V
+[22:30:12] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XD
+[22:30:16] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » bri
+[22:30:16] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ala
+[22:30:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » xd+
+[22:30:19] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » me estoy dejando
+[22:30:20] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » me estoy dejando
+[22:30:21] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XD
+[22:30:39] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » no corras we
+[22:31:40] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XD
+[22:31:43] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » bro no te dropeare
+[22:31:47] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tomaa
+[22:31:52] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » totem ten
+[22:32:06] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ya se me van a acabar
+[22:32:09] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XD
+[22:32:16] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » yayaya
+[22:32:20] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » yayaya
+[22:32:28] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » nomas queria sacar para que veas que me estaba dejandoXD
+[22:32:31] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ya no tengo :c
+[22:32:41] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » me estaba dejando XD
+[22:32:45] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » compro totems
+[22:32:48] [Render thread/INFO]: [System] [CHAT] permanent4k fue aplastado(a) por zJuanm
+[22:32:54] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XDDDD
+[22:32:57] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » ggsAa
+[22:33:22] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » dame mis cosas
+[22:33:23] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » rico mazo
+[22:33:24] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » w
+[22:33:35] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » dame mis cosas
+[22:33:37] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » no
+[22:33:43] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » te gane
+[22:33:57] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » fue pvp
+[22:33:58] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » :V
+[22:34:04] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » pero dijiste que paremos
+[22:34:11] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » aver espera
+[22:34:13] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ¿dije que ta
+[22:34:18] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » no dije eso
+[22:34:21] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » estaba quieto y vos tmb
+[22:34:26] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » dije yayyaa de que no te vallas
+[22:34:33] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » pero dame mis cosas
+[22:34:52] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » me quedo con tu mazo
+[22:34:59] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » abro tiket
+[22:35:05] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » estoy grabando
+[22:35:06] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » por q
+[22:35:10] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » es pvp d e drop
+[22:35:30] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » ese masxzo custa como 400k damelo
+[22:35:35] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » no we :V
+[22:36:01] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » bueno tiqket
+[22:36:04] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[22:36:09] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que quiere
+[22:36:10] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » agradece que te di tu armor y espada w:V
+[22:36:12] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » un ban oqie
+[22:36:18] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » no joda
+[22:36:24] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » hace lo q uiera
+[22:36:29] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » puedo aplear
+[22:36:31] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » apelar
+[22:36:55] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » HAMMER OF THE JUSTICE
+[22:36:58] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » jajaja que grasoso dame mi mazo o abro tiket
+[22:37:03] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » abare ticket w
+[22:37:07] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » abre ticket w :V
+[22:37:14] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » aver aa qn banean XD
+[22:38:16] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k es malisimo
+[22:38:21] [Render thread/INFO]: [System] [CHAT]  ☢ [URSS] | permanent4k » cj
+[22:38:23] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k es malisimo
+[22:38:33] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » pero se mejora
+[22:39:01] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[22:39:30] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » q .DiscoStraw8542
+[22:39:50] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » q .DiscoStraw8542
+[22:40:13] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » envia tpa
+[22:40:30] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm calmate
+[22:40:57] [Render thread/INFO]: [System] [CHAT] zJuanm fue víctima de permanent4k y su [ Espada de Netherite y le dio mucha aura]
+[22:41:02] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » :V
+[22:41:06] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » weee
+[22:41:11] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » perdi el mazooo
+[22:41:13] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » weee
+[22:41:14] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » weee
+[22:41:16] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » perdi el mazooo
+[22:41:27] [Render thread/INFO]: [System] [CHAT] [DMNC]「⚡」⌞⛧ |🎃| ⛧⌝ DemonLucifer » Me alegro mucho zJuanm, porfin vas a ser hombre :D
+[22:41:27] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[22:41:36] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » que quiere
+[22:41:46] [Render thread/INFO]: [System] [CHAT]  MINELATINO » L3ON4RD014 te ha pedido teletransportarse hasta ti.
+[22:41:46] [Render thread/INFO]: [System] [CHAT]  ⌚ La solicitud será cancelada en 120 segundos.
+[22:41:49] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Petición de teletransporte aceptada.
+[22:47:49] [Render thread/INFO]: [System] [CHAT] [+] permanent4k, se ha conectado al lobby.
+[22:47:55] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Miembro permanent4k acaba de unirse.
+[22:48:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » Modo de vuelo activado para permanent4k.
+[22:49:15] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » tinjr17 es un bot
+[22:51:44] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » q w
+[22:51:49] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » cj quieres pvp?
+[22:52:11] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » basura
+[22:52:15] [Render thread/INFO]: [System] [CHAT] [TYN][LATAM+][:(] Thunderhead » zJuanm
+[22:52:21] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » XDDD
+[22:52:21] [Render thread/INFO]: [System] [CHAT] zJuanm fue víctima de CarlBy2008 y su [Caso URSS]
+[22:52:30] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » :C
+[22:52:38] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » :C
+[22:52:46] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » cj es
+[22:52:55] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelve mi mazo
+[22:53:23] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelve mi mazo
+[22:53:25] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:53:29] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:53:34] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:53:43] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelve mi mazo
+[22:53:47] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » miedo
+[22:53:52] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:54:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:54:02] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » matu es una niña
+[22:54:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:54:03] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » JAJAJ
+[22:54:17] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » eran como 8 XD
+[22:54:33] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:55:05] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[22:55:09] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » nadie te va a dar el mazo w
+[22:55:39] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:55:49] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:55:51] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:56:38] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » psi tengo
+[22:56:39] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:56:41] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » si tengo
+[22:56:42] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:56:44] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » pero no te dare
+[22:56:44] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:56:49] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:56:51] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » zJuanm devuelve mi mazo
+[22:56:52] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:56:54] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » que no we
+[22:56:56] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » noo
+[22:57:16] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » robin
+[22:57:20] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » me regalas rango :C?
+[22:57:31] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » Pato4881 dile q regale rank XD
+[22:57:46] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:57:46] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:58:02] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:58:03] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:58:06] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:58:08] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[22:58:12] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Saliendo de la zona de zJuanm!
+[22:58:47] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » abajo
+[22:58:51] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » espera
+[22:58:57] [Render thread/INFO]: [System] [CHAT]  MINELATINO » ¡Entrando a la zona de zJuanm!
+[23:00:45] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » permanent4k
+[23:00:48] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » pvp por tu mazo
+[23:00:56] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » pvp por tu mazo
+[23:01:32] [Render thread/INFO]: [System] [CHAT] [][U] zJuanm » sabes
+[23:01:42] [Render thread/INFO]: [System] [CHAT] [URSS][LATAM+][G][I] permanent4k » na zJuanm ando ocupado abriendo tiket
